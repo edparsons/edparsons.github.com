@@ -3,7 +3,8 @@ title: Ed's Blog
 header-img: img/home-bg.jpg
 email: ed@edparsons.co.uk
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "http://edparsons.github.io/"
+baseurl: "http://edparsons.github.io"
+author: "Ed Parsons"
 url: "http://edparsons.github.io"
 twitter_username: edparso
 github_username:  edparsons
